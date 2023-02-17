@@ -1,0 +1,8 @@
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web01-exemplo02-tabuadaArray\senac-alg2-web01-exemplo02-tabuadaArray\bin\Debug\senac-alg2-web01-exemplo02-tabuadaArray.exe.config
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web01-exemplo02-tabuadaArray\senac-alg2-web01-exemplo02-tabuadaArray\bin\Debug\senac-alg2-web01-exemplo02-tabuadaArray.exe
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web01-exemplo02-tabuadaArray\senac-alg2-web01-exemplo02-tabuadaArray\bin\Debug\senac-alg2-web01-exemplo02-tabuadaArray.pdb
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web01-exemplo02-tabuadaArray\senac-alg2-web01-exemplo02-tabuadaArray\obj\Debug\senac-alg2-web01-exemplo02-tabuadaArray.csproj.AssemblyReference.cache
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web01-exemplo02-tabuadaArray\senac-alg2-web01-exemplo02-tabuadaArray\obj\Debug\senac-alg2-web01-exemplo02-tabuadaArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web01-exemplo02-tabuadaArray\senac-alg2-web01-exemplo02-tabuadaArray\obj\Debug\senac-alg2-web01-exemplo02-tabuadaArray.csproj.CoreCompileInputs.cache
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web01-exemplo02-tabuadaArray\senac-alg2-web01-exemplo02-tabuadaArray\obj\Debug\senac-alg2-web01-exemplo02-tabuadaArray.exe
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web01-exemplo02-tabuadaArray\senac-alg2-web01-exemplo02-tabuadaArray\obj\Debug\senac-alg2-web01-exemplo02-tabuadaArray.pdb

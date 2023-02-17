@@ -1,0 +1,8 @@
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web02-exemplo02-funcaoRecursivaContar\senac-alg2-web02-exemplo02-funcaoRecursivaContar\bin\Debug\senac-alg2-web02-exemplo02-funcaoRecursivaContar.exe.config
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web02-exemplo02-funcaoRecursivaContar\senac-alg2-web02-exemplo02-funcaoRecursivaContar\bin\Debug\senac-alg2-web02-exemplo02-funcaoRecursivaContar.exe
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web02-exemplo02-funcaoRecursivaContar\senac-alg2-web02-exemplo02-funcaoRecursivaContar\bin\Debug\senac-alg2-web02-exemplo02-funcaoRecursivaContar.pdb
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web02-exemplo02-funcaoRecursivaContar\senac-alg2-web02-exemplo02-funcaoRecursivaContar\obj\Debug\senac-alg2-web02-exemplo02-funcaoRecursivaContar.csproj.AssemblyReference.cache
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web02-exemplo02-funcaoRecursivaContar\senac-alg2-web02-exemplo02-funcaoRecursivaContar\obj\Debug\senac-alg2-web02-exemplo02-funcaoRecursivaContar.csproj.SuggestedBindingRedirects.cache
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web02-exemplo02-funcaoRecursivaContar\senac-alg2-web02-exemplo02-funcaoRecursivaContar\obj\Debug\senac-alg2-web02-exemplo02-funcaoRecursivaContar.csproj.CoreCompileInputs.cache
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web02-exemplo02-funcaoRecursivaContar\senac-alg2-web02-exemplo02-funcaoRecursivaContar\obj\Debug\senac-alg2-web02-exemplo02-funcaoRecursivaContar.exe
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web02-exemplo02-funcaoRecursivaContar\senac-alg2-web02-exemplo02-funcaoRecursivaContar\obj\Debug\senac-alg2-web02-exemplo02-funcaoRecursivaContar.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "senac-alg2-web01-exemplo02-tabuadaArray", "senac-alg2-web01-exemplo02-tabuadaArray\senac-alg2-web01-exemplo02-tabuadaArray.csproj", "{9FA11CB4-0D32-4FDC-A3B5-CE8BF5F0BA84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FA11CB4-0D32-4FDC-A3B5-CE8BF5F0BA84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FA11CB4-0D32-4FDC-A3B5-CE8BF5F0BA84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FA11CB4-0D32-4FDC-A3B5-CE8BF5F0BA84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FA11CB4-0D32-4FDC-A3B5-CE8BF5F0BA84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D0D37B1-A7C4-4889-A53F-96AB3B1A99FE}
+	EndGlobalSection
+EndGlobal
