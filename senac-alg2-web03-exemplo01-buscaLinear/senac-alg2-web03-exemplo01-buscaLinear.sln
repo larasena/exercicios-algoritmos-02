@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "senac-alg2-web03-exemplo01-buscaLinear", "senac-alg2-web03-exemplo01-buscaLinear\senac-alg2-web03-exemplo01-buscaLinear.csproj", "{BDD38319-566A-489F-8FE3-7827664CEF1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD38319-566A-489F-8FE3-7827664CEF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD38319-566A-489F-8FE3-7827664CEF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD38319-566A-489F-8FE3-7827664CEF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD38319-566A-489F-8FE3-7827664CEF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDCD6D58-32A0-4269-A4DD-3E5E5879B201}
+	EndGlobalSection
+EndGlobal

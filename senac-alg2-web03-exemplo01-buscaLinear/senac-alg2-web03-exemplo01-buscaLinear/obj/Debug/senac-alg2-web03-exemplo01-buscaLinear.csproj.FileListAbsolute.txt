@@ -1,0 +1,8 @@
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web03-exemplo01-buscaLinear\senac-alg2-web03-exemplo01-buscaLinear\bin\Debug\senac-alg2-web03-exemplo01-buscaLinear.exe.config
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web03-exemplo01-buscaLinear\senac-alg2-web03-exemplo01-buscaLinear\bin\Debug\senac-alg2-web03-exemplo01-buscaLinear.exe
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web03-exemplo01-buscaLinear\senac-alg2-web03-exemplo01-buscaLinear\bin\Debug\senac-alg2-web03-exemplo01-buscaLinear.pdb
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web03-exemplo01-buscaLinear\senac-alg2-web03-exemplo01-buscaLinear\obj\Debug\senac-alg2-web03-exemplo01-buscaLinear.csproj.AssemblyReference.cache
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web03-exemplo01-buscaLinear\senac-alg2-web03-exemplo01-buscaLinear\obj\Debug\senac-alg2-web03-exemplo01-buscaLinear.csproj.SuggestedBindingRedirects.cache
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web03-exemplo01-buscaLinear\senac-alg2-web03-exemplo01-buscaLinear\obj\Debug\senac-alg2-web03-exemplo01-buscaLinear.csproj.CoreCompileInputs.cache
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web03-exemplo01-buscaLinear\senac-alg2-web03-exemplo01-buscaLinear\obj\Debug\senac-alg2-web03-exemplo01-buscaLinear.exe
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web03-exemplo01-buscaLinear\senac-alg2-web03-exemplo01-buscaLinear\obj\Debug\senac-alg2-web03-exemplo01-buscaLinear.pdb

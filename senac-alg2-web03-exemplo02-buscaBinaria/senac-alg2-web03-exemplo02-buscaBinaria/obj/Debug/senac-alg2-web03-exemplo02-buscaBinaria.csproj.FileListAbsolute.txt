@@ -1,0 +1,8 @@
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web03-exemplo02-buscaBinaria\senac-alg2-web03-exemplo02-buscaBinaria\bin\Debug\senac-alg2-web03-exemplo02-buscaBinaria.exe.config
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web03-exemplo02-buscaBinaria\senac-alg2-web03-exemplo02-buscaBinaria\bin\Debug\senac-alg2-web03-exemplo02-buscaBinaria.exe
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web03-exemplo02-buscaBinaria\senac-alg2-web03-exemplo02-buscaBinaria\bin\Debug\senac-alg2-web03-exemplo02-buscaBinaria.pdb
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web03-exemplo02-buscaBinaria\senac-alg2-web03-exemplo02-buscaBinaria\obj\Debug\senac-alg2-web03-exemplo02-buscaBinaria.csproj.AssemblyReference.cache
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web03-exemplo02-buscaBinaria\senac-alg2-web03-exemplo02-buscaBinaria\obj\Debug\senac-alg2-web03-exemplo02-buscaBinaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web03-exemplo02-buscaBinaria\senac-alg2-web03-exemplo02-buscaBinaria\obj\Debug\senac-alg2-web03-exemplo02-buscaBinaria.csproj.CoreCompileInputs.cache
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web03-exemplo02-buscaBinaria\senac-alg2-web03-exemplo02-buscaBinaria\obj\Debug\senac-alg2-web03-exemplo02-buscaBinaria.exe
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web03-exemplo02-buscaBinaria\senac-alg2-web03-exemplo02-buscaBinaria\obj\Debug\senac-alg2-web03-exemplo02-buscaBinaria.pdb
