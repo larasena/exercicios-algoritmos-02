@@ -1,0 +1,8 @@
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web04-exemplo03-selectionSort\senac-alg2-web04-exemplo03-selectionSort\bin\Debug\senac-alg2-web04-exemplo03-selectionSort.exe.config
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web04-exemplo03-selectionSort\senac-alg2-web04-exemplo03-selectionSort\bin\Debug\senac-alg2-web04-exemplo03-selectionSort.exe
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web04-exemplo03-selectionSort\senac-alg2-web04-exemplo03-selectionSort\bin\Debug\senac-alg2-web04-exemplo03-selectionSort.pdb
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web04-exemplo03-selectionSort\senac-alg2-web04-exemplo03-selectionSort\obj\Debug\senac-alg2-web04-exemplo03-selectionSort.csproj.AssemblyReference.cache
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web04-exemplo03-selectionSort\senac-alg2-web04-exemplo03-selectionSort\obj\Debug\senac-alg2-web04-exemplo03-selectionSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web04-exemplo03-selectionSort\senac-alg2-web04-exemplo03-selectionSort\obj\Debug\senac-alg2-web04-exemplo03-selectionSort.csproj.CoreCompileInputs.cache
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web04-exemplo03-selectionSort\senac-alg2-web04-exemplo03-selectionSort\obj\Debug\senac-alg2-web04-exemplo03-selectionSort.exe
+C:\Users\laraf\OneDrive\Documentos\algoritmos-02\senac-alg2-web04-exemplo03-selectionSort\senac-alg2-web04-exemplo03-selectionSort\obj\Debug\senac-alg2-web04-exemplo03-selectionSort.pdb
